@@ -1,0 +1,5 @@
+<map id="QA_Lab3_Fursov.Ellipse3D" name="QA_Lab3_Fursov.Ellipse3D">
+<area shape="rect" id="Node000001" title="Производный класс, представляющий трёхмерный эллипс. Добавляет третье измерение (z)." alt="" coords="5,80,187,107"/>
+<area shape="rect" id="Node000002" href="$class_q_a___lab3___fursov_1_1_ellipse.html" title="Класс, представляющий эллипс. Содержит большую и малую полуоси, а также методы для вычисления площади..." alt="" coords="14,5,178,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,46,98,81,94,79,94,50"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_q_a___lab3___fursov_1_1_ellipse.html" title="Класс, представляющий эллипс. Содержит большую и малую полуоси, а также методы для вычисления площади..." alt="" coords="5,5,170,32"/>
+<area shape="rect" id="Node000001" href="$class_q_a___lab3___fursov_1_1_ellipse3_d.html" title="Производный класс, представляющий трёхмерный эллипс. Добавляет третье измерение (z)." alt="" coords="218,5,399,32"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="185,16,220,19,215,19,185,21"/>
+</map>

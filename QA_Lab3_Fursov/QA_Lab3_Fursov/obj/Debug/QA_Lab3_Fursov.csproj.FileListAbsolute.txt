@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\QA_Lab3_Fursov\QA_Lab3_Fursov\bin\Debug\QA_Lab3_Fursov.exe.config
+C:\Users\Александр\source\repos\QA_Lab3_Fursov\QA_Lab3_Fursov\bin\Debug\QA_Lab3_Fursov.exe
+C:\Users\Александр\source\repos\QA_Lab3_Fursov\QA_Lab3_Fursov\bin\Debug\QA_Lab3_Fursov.pdb
+C:\Users\Александр\source\repos\QA_Lab3_Fursov\QA_Lab3_Fursov\obj\Debug\QA_Lab3_Fursov.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\QA_Lab3_Fursov\QA_Lab3_Fursov\obj\Debug\QA_Lab3_Fursov.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\QA_Lab3_Fursov\QA_Lab3_Fursov\obj\Debug\QA_Lab3_Fursov.exe
+C:\Users\Александр\source\repos\QA_Lab3_Fursov\QA_Lab3_Fursov\obj\Debug\QA_Lab3_Fursov.pdb
